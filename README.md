@@ -3,6 +3,7 @@
 # Date :
 # Reg. No. 
 
+
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
 
